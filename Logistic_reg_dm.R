@@ -2,7 +2,7 @@ library(gains)
 library(dplyr)
 library(irr)
 library(caret)
-setwd("G:\\Gunnvant Singh\\Logistic Regression")
+setwd("G:.........")
 dm<-read.csv("dm.csv")
 # Direct Marketer who wants to come up with a process to identify good customers, identify customer id's who are considered good according to his definition
 
